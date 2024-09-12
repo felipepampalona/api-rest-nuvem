@@ -31,7 +31,7 @@ dependencies {
 
 tasks.jar {
 	manifest {
-		attributes["Main-class"] = "me.dio.ApiRestNuvemApplication"
+		attributes["Main-Class"] = "me.dio.ApiRestNuvemApplication"
 	}
 }
 
